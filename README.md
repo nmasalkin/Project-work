@@ -13,6 +13,6 @@
 - **Вологжин Егор** ([Telegram](https://t.me/eguarchik)) – Quality Assurance
 
 ## Ресурсы команды
-- [**YouTrack**](https://tp-project.youtrack.cloud/dashboard?id=213-2)
+- [**YouTrack**](https://tp-project.youtrack.cloud/dashboard?id=213-2)(Заходить под VPN)
 - [**MIRO**](https://miro.com/app/board/uXjVIaDbFEI=/)
 - [**Figma**](https://www.figma.com/design/F01e7qHR0zD706sozrB7Nu/Programming-technology)
