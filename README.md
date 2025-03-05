@@ -10,7 +10,7 @@
 - **Труфанов Егор** ([Telegram](https://t.me/u0nkis)) – Project Manager, DevOps
 - **Масалкин Никита** ([Telegram](https://t.me/el_nikitinho)) – Frontend Developer
 - **Ушаков Денис** ([Telegram](https://t.me/deUshakov)) – Backend Developer
-- **Вологжин Егор** ([Telegram](https://t.me/eguarchik)) – Quality Assurance
+- **Вологжин Егор** ([Telegram](https://t.me/eguarchik)) – Tester
 
 ## Ресурсы команды
 - [**YouTrack**](https://tp-project.youtrack.cloud/dashboard?id=213-2)(Заходить под VPN)
