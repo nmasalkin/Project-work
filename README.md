@@ -14,5 +14,5 @@
 
 ## Ресурсы команды
 - [**YouTrack**](https://tp-project.youtrack.cloud)(Заходить под VPN)
-- [**MIRO**](https://miro.com/app/board/uXjVIaDbFEI=/)
+- [**MIRO**](https://miro.com/app/board/uXjVIaDbFEI=/?share_link_id=648966461058)
 - [**Figma**](https://www.figma.com/design/F01e7qHR0zD706sozrB7Nu/Programming-technology)
