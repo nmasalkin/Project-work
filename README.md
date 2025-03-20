@@ -6,7 +6,7 @@
 ## Номер команды: 8.4
 
 ## Состав команды
-- **Сакун Дарья** ([Telegram](https://t.me/daryasakun)) – Analyst
+- **Сакун Дарья** ([Telegram](https://t.me/daryasakun)) – Team Lead, Analyst
 - **Труфанов Егор** ([Telegram](https://t.me/u0nkis)) – Project Manager, DevOps
 - **Масалкин Никита** ([Telegram](https://t.me/el_nikitinho)) – Fullstack Developer
 - **Ушаков Денис** ([Telegram](https://t.me/deUshakov)) – Backend Developer
