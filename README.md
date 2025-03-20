@@ -15,4 +15,4 @@
 ## Ресурсы команды
 - [**YouTrack**](https://tp-project.youtrack.cloud)(Заходить под VPN)
 - [**MIRO**](https://miro.com/app/board/uXjVIaDbFEI=/?share_link_id=648966461058)
-- [**Figma**](https://www.figma.com/design/eOcJoED5wT5hR5uOnfHE1B/TP)
+- [**Figma**](https://www.figma.com/design/b6FzC47za1QFNKdIDRJERN/TP)
