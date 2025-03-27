@@ -12,6 +12,10 @@
 - **Ушаков Денис** ([Telegram](https://t.me/deUshakov)) – Backend Developer
 - **Вологжин Егор** ([Telegram](https://t.me/eguarchik)) – Tester
 
+## Тема проекта
+  Медицинский ассистент с интегрированным чат-ботом
+  Наименование приложения - **POCKET HEALTH**
+
 ## Ресурсы команды
 - [**YouTrack**](https://tp-project.youtrack.cloud)(Заходить под VPN)
 - [**MIRO**](https://miro.com/app/board/uXjVIaDbFEI=/?share_link_id=648966461058)
