@@ -32,3 +32,6 @@
 - **Видео презентация проекта**([Rutube](https://rutube.ru/video/d8d2b23ecd581a2b8a63b9115cc12c5e/))
 - [**Еженедельные отчеты**](https://github.com/nmasalkin/Project-work/tree/main/%D0%95%D0%B6%D0%B5%D0%BD%D0%B5%D0%B4%D0%B5%D0%BB%D1%8C%D0%BD%D1%8B%D0%B5%20%D0%BE%D1%82%D1%87%D1%91%D1%82%D1%8B)
 - [**Остальная докуменентация**](https://github.com/nmasalkin/Project-work/tree/main/%D0%94%D0%BE%D0%BA%D1%83%D0%BC%D0%B5%D0%BD%D1%82%D0%B0%D1%86%D0%B8%D1%8F)
+
+## Документация для разработчика
+- [**Правила ведения Git**](https://tp-project.youtrack.cloud/articles/PPT-A-1/Pravila-kommitov)(Заходить под VPN)
