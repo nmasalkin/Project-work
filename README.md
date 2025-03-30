@@ -42,4 +42,10 @@
 - [**Правила ведения Git**](https://tp-project.youtrack.cloud/articles/PPT-A-1/Pravila-kommitov)(Заходить под VPN)
 
 ## Кросс-проверка команд
-- [**Кросс-проверка**](https://docs.google.com/spreadsheets/d/1RBFOzJJuNtDxEPsZU5zfo1aEpX8Dm4XqD-oHU9pJVSI/edit?gid=0#gid=0)
+- [**Кросс-проверка других команд**](https://docs.google.com/spreadsheets/d/1RBFOzJJuNtDxEPsZU5zfo1aEpX8Dm4XqD-oHU9pJVSI/edit?gid=0#gid=0)
+### Команды, которые проверяли нас:
+- [**Команда №3.2**](https://github.com/dnlksnvv/Trainova/tree/main?tab=readme-ov-file)
+- [**Команда №9.5**](https://github.com/kotovro/TP-9-5)
+- [**Команда №9.1**](https://github.com/IgorPustylnik/TP-9.1)
+- [**Команда №7.3**](https://github.com/Vlad-gw/task-planner-app)
+- [**Команда №10.2**](https://github.com/Ikramus/fitness-ai?tab=readme-ov-file)
