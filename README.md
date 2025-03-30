@@ -45,7 +45,7 @@
 - [**Кросс-проверка других команд**](https://github.com/nmasalkin/Project-work/blob/main/%D0%A7%D0%B5%D0%BA-%D0%BB%D0%B8%D1%81%D1%82/%D0%9A%D1%80%D0%BE%D1%81%D1%81-%D0%BF%D1%80%D0%BE%D0%B2%D0%B5%D1%80%D0%BA%D0%B0.pdf)
 ### Команды, которые проверяли нас:
 - [**Команда №3.2**](https://github.com/dnlksnvv/Trainova/tree/main?tab=readme-ov-file)
-- [**Команда №9.5**](https://github.com/kotovro/TP-9-5)
+- [**Команда №9.5**]([GitHub](https://github.com/kotovro/TP-9-5))([Чек-лист](https://docs.google.com/spreadsheets/d/16dYTz6zW2YxYeqqG0Wbo7U_hYHtsoE2jADToYRZJZ2s/edit?gid=116236438#gid=116236438))
 - [**Команда №9.1**](https://github.com/IgorPustylnik/TP-9.1)
 - [**Команда №7.3**](https://github.com/Vlad-gw/task-planner-app)
-- [**Команда №10.2**](https://github.com/Ikramus/fitness-ai?tab=readme-ov-file)
+- [**Команда №10.2**]([GitHub](https://github.com/Ikramus/fitness-ai))([Чек-лист](https://docs.google.com/spreadsheets/d/1LtXZlFm_UbMDezV3RIYXoj2cIRNN2LuDyQXwmJ8V7M8/edit?gid=116236438#gid=116236438))
