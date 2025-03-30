@@ -40,3 +40,6 @@
 
 ## Документация для разработчика
 - [**Правила ведения Git**](https://tp-project.youtrack.cloud/articles/PPT-A-1/Pravila-kommitov)(Заходить под VPN)
+
+## Материалы по аттестациям
+- [**Кросс-проверка команд**](https://docs.google.com/spreadsheets/d/1RBFOzJJuNtDxEPsZU5zfo1aEpX8Dm4XqD-oHU9pJVSI/edit?gid=0#gid=0)
