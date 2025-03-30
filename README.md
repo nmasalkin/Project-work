@@ -27,6 +27,9 @@
 - [**BrandBook**](https://www.figma.com/design/b6FzC47za1QFNKdIDRJERN/TP?node-id=304-14)
 - [**UI KIT**](https://www.figma.com/design/b6FzC47za1QFNKdIDRJERN/TP?node-id=81-470)
 
+## API документация
+- [**Swagger**](https://app.swaggerhub.com/apis/nikitamasalkin-669/PocketHealth-API/1.0.0)
+
 ## Документация
 - **Техническое задание**([DOCX](https://github.com/nmasalkin/Project-work/blob/main/%D0%94%D0%BE%D0%BA%D1%83%D0%BC%D0%B5%D0%BD%D1%82%D0%B0%D1%86%D0%B8%D1%8F/%D0%A2%D0%B5%D1%85%D0%BD%D0%B8%D1%87%D0%B5%D1%81%D0%BA%D0%BE%D0%B5%20%D0%B7%D0%B0%D0%B4%D0%B0%D0%BD%D0%B8%D0%B5.docx))([PDF](https://github.com/nmasalkin/Project-work/blob/main/%D0%94%D0%BE%D0%BA%D1%83%D0%BC%D0%B5%D0%BD%D1%82%D0%B0%D1%86%D0%B8%D1%8F/%D0%A2%D0%B5%D1%85%D0%BD%D0%B8%D1%87%D0%B5%D1%81%D0%BA%D0%BE%D0%B5%20%D0%B7%D0%B0%D0%B4%D0%B0%D0%BD%D0%B8%D0%B5.pdf))
 - **Видео презентация проекта**([Rutube](https://rutube.ru/video/d8d2b23ecd581a2b8a63b9115cc12c5e/))
