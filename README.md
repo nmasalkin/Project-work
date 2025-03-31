@@ -46,7 +46,7 @@
 ### Команды, которые проверяли нас:
 - **Команда №3.2**([GitHub](https://github.com/dnlksnvv/Trainova))([Чек-лист](https://github.com/dnlksnvv/Trainova/blob/main/docs/%D0%BE%D1%86%D0%B5%D0%BD%D0%B8%D0%B2%D0%B0%D0%BD%D0%B8%D0%B5.pdf))
 - **Команда №9.5**([GitHub](https://github.com/kotovro/TP-9-5))([Чек-лист](https://docs.google.com/spreadsheets/d/16dYTz6zW2YxYeqqG0Wbo7U_hYHtsoE2jADToYRZJZ2s/edit?gid=116236438#gid=116236438))
-- **Команда №10.2**([GitHub](https://github.com/Ikramus/fitness-ai))([Чек-лист](https://docs.google.com/spreadsheets/d/1LtXZlFm_UbMDezV3RIYXoj2cIRNN2LuDyQXwmJ8V7M8/edit?gid=116236438#gid=116236438))
-- **Команда №9.1**([GitHub](https://github.com/IgorPustylnik/TP-9.1))([Чек-лист](https://docs.google.com/spreadsheets/d/10ys2XfOfylePg9caJmLksWstisYV_Fc4T_YPP5Hel1k/edit?gid=116236438#gid=116236438))
+- **Команда №9.1**([GitHub](https://github.com/IgorPustylnik/TP-9.1))([Чек-лист](https://github.com/IgorPustylnik/TP-9.1/blob/main/documentation/checklists/%D0%A7%D0%B5%D0%BA%D0%BB%D0%B8%D1%81%D1%82%201%20%D1%8D%D1%82%D0%B0%D0%BF%20-%20%D1%87%D0%B5%D0%BA%D0%BB%D0%B8%D1%81%D1%82.pdf))
 - **Команда №7.3**([GitHub](https://github.com/Vlad-gw/task-planner-app))([Чек-лист](https://github.com/Vlad-gw/task-planner-app/blob/main/documentation/Punctualis%20%D0%A7%D0%B5%D0%BA%D0%BB%D0%B8%D1%81%D1%82%201.pdf))
+- **Команда №10.2**([GitHub](https://github.com/Ikramus/fitness-ai))([Чек-лист](https://docs.google.com/spreadsheets/d/1LtXZlFm_UbMDezV3RIYXoj2cIRNN2LuDyQXwmJ8V7M8/edit?gid=116236438#gid=116236438))
 
