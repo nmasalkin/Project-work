@@ -1,6 +1,6 @@
 ## Проектная работа (ТП)
 
-### [Frontend-Development](https://github.com/nmasalkin/Frontend-Development)
+### [Frontend-Development](https://github.com/nmasalkin/frontend_development)
 ### [Backend-Development](https://github.com/nmasalkin/Backend-Development)
 
 ## Номер команды: 8.4
