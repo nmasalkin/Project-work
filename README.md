@@ -40,7 +40,7 @@
 ### Аттестация 2
 - **Видео презентация проекта**([Rutube](https://rutube.ru/video/a9e52b854887934b85a69d2a62cf7b0e/))
 - **Презентация проекта**([PPTX](https://github.com/nmasalkin/Project-work/blob/main/%D0%94%D0%BE%D0%BA%D1%83%D0%BC%D0%B5%D0%BD%D1%82%D0%B0%D1%86%D0%B8%D1%8F/%D0%9F%D1%80%D0%B5%D0%B7%D0%B5%D0%BD%D1%82%D0%B0%D1%86%D0%B8%D1%8F%20%D0%BF%D1%80%D0%BE%D0%B5%D0%BA%D1%82%D0%B0%202%20%D0%B0%D1%82%D1%82%D0%B5%D1%81%D1%82%D0%B0%D1%86%D0%B8%D1%8F.pptx))([PDF](https://github.com/nmasalkin/Project-work/blob/main/%D0%94%D0%BE%D0%BA%D1%83%D0%BC%D0%B5%D0%BD%D1%82%D0%B0%D1%86%D0%B8%D1%8F/%D0%9F%D1%80%D0%B5%D0%B7%D0%B5%D0%BD%D1%82%D0%B0%D1%86%D0%B8%D1%8F%20%D0%BF%D1%80%D0%BE%D0%B5%D0%BA%D1%82%D0%B0%202%20%D0%B0%D1%82%D1%82%D0%B5%D1%81%D1%82%D0%B0%D1%86%D0%B8%D1%8F.pdf))
-- ([**Swagger**](https://pockethealth.nmasalkin.ru/swagger-ui/index.html))(Для правильной работы нужно в сервере выбрать Production server, а чтобы проверить все конечные точки необходимо: зарегистрироваться, войти в аккаунт и ввести в Authorize полученный access token)
+- [**Swagger**](https://pockethealth.nmasalkin.ru/swagger-ui/index.html)(Для правильной работы нужно в сервере выбрать Production server, а чтобы проверить все конечные точки необходимо: зарегистрироваться, войти в аккаунт и ввести в Authorize полученный access token)
 
 ## Документация для разработчика
 - [**Правила ведения Git**](https://tp-project.youtrack.cloud/articles/PPT-A-1/Pravila-kommitov)(Заходить под VPN)
