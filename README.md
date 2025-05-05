@@ -58,7 +58,7 @@
 - **Команда №10.2**([GitHub](https://github.com/Ikramus/fitness-ai))([Чек-лист](https://docs.google.com/spreadsheets/d/1LtXZlFm_UbMDezV3RIYXoj2cIRNN2LuDyQXwmJ8V7M8/edit?gid=116236438#gid=116236438))
 
 ### Аттестация 2
-- [**Кросс-проверка других команд**]()
+- [**Кросс-проверка других команд**](https://docs.google.com/spreadsheets/d/1Ja0ObTKoGNE-lEmVByOKiuTt0JGaLL0GPGK6Uz6He0U/edit?gid=0#gid=0)
 ### Команды, которые проверяли нас:
 - **Команда №3.2**([GitHub](https://github.com/dnlksnvv/Trainova))([Чек-лист]())
 - **Команда №9.5**([GitHub](https://github.com/kotovro/TP-9-5))([Чек-лист]())
