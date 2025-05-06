@@ -62,7 +62,7 @@
 ### Аттестация 2
 - [**Кросс-проверка других команд**](https://docs.google.com/spreadsheets/d/1Ja0ObTKoGNE-lEmVByOKiuTt0JGaLL0GPGK6Uz6He0U/edit?gid=0#gid=0)
 ### Команды, которые проверяли нас:
-- **Команда №3.2**([GitHub](https://github.com/dnlksnvv/Trainova))([Чек-лист]())
+- **Команда №3.2**([GitHub](https://github.com/dnlksnvv/Trainova))([Чек-лист](https://github.com/dnlksnvv/Trainova/blob/develop/docs/%D0%BE%D1%86%D0%B5%D0%BD%D0%B8%D0%B2%D0%B0%D0%BD%D0%B8%D0%B52%D0%B0%D1%82%D1%82%D0%B0.pdf))
 - **Команда №9.5**([GitHub](https://github.com/kotovro/TP-9-5))([Чек-лист](https://github.com/kotovro/TP-9-5/blob/main/Documents/TP_checklist_second_att.pdf))
 - **Команда №9.1**([GitHub](https://github.com/IgorPustylnik/TP-9.1))([Чек-лист](https://github.com/IgorPustylnik/TP-9.1/blob/main/documentation/checklists/checklist_2.pdf))
 - **Команда №7.3**([GitHub](https://github.com/Vlad-gw/task-planner-app))([Чек-лист](https://github.com/Vlad-gw/task-planner-app/blob/main/documentation/ТП%20Чеклист%202%20этап.pdf))
