@@ -65,4 +65,4 @@
 - **Команда №3.2**([GitHub](https://github.com/dnlksnvv/Trainova))([Чек-лист]())
 - **Команда №9.5**([GitHub](https://github.com/kotovro/TP-9-5))([Чек-лист]())
 - **Команда №9.1**([GitHub](https://github.com/IgorPustylnik/TP-9.1))([Чек-лист]())
-- **Команда №7.3**([GitHub](https://github.com/Vlad-gw/task-planner-app))([Чек-лист]())
+- **Команда №7.3**([GitHub](https://github.com/Vlad-gw/task-planner-app))([Чек-лист](https://github.com/Vlad-gw/task-planner-app/blob/main/documentation/ТП%20Чеклист%202%20этап.pdf))
