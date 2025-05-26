@@ -45,6 +45,8 @@
 - **Отчёт от PM**([DOCX](https://github.com/nmasalkin/Project-work/blob/main/Документация/PM-отчёт.docx))([PDF](https://github.com/nmasalkin/Project-work/blob/main/Документация/PM-отчёт.pdf))
 - **Отчёт о тестирование**([DOCX](https://github.com/nmasalkin/Project-work/blob/main/Документация/Отчёт%20о%20тестирование.docx))([PDF](https://github.com/nmasalkin/Project-work/blob/main/Документация/Отчёт%20о%20тестирование.pdf))
 - [**Swagger**](https://pockethealth.nmasalkin.ru/swagger-ui/index.html)(Для правильной работы нужно в сервере выбрать Production server, а чтобы проверить все конечные точки необходимо: зарегистрироваться, войти в аккаунт и ввести в Authorize полученный access token)
+### Предзащита
+- **Презентация**([PPTX](https://github.com/nmasalkin/Project-work/blob/main/Документация/Предзащита.pptx))([PDF](https://github.com/nmasalkin/Project-work/blob/main/Документация/Предзащита.pdf))
 
 ## Документация для разработчика
 - [**Правила ведения Git**](https://tp-project.youtrack.cloud/articles/PPT-A-1/Pravila-kommitov)(Заходить под VPN)
