@@ -47,7 +47,11 @@
 - [**Swagger**](https://pockethealth.nmasalkin.ru/swagger-ui/index.html)(Для правильной работы нужно в сервере выбрать Production server, а чтобы проверить все конечные точки необходимо: зарегистрироваться, войти в аккаунт и ввести в Authorize полученный access token)
 ### Предзащита
 - **Презентация**([PPTX](https://github.com/nmasalkin/Project-work/blob/main/Документация/Предзащита.pptx))([PDF](https://github.com/nmasalkin/Project-work/blob/main/Документация/Предзащита.pdf))
-- **Курсовой проект**([PDF](<https://github.com/nmasalkin/Project-work/blob/main/Документация/Курсовой%20проект%20(Предзащита).pdf>))
+- **Курсовой проект**([PDF](<https://github.com/nmasalkin/Project-work/blob/main/Документация/Курсовой%20проект%20(Предзащита).pdf>)) (старая версия)
+### Защита
+- **Аналитические метрики**([PDF](https://github.com/nmasalkin/Project-work/blob/main/Документация/Yandex%20Appmetrica.pdf))
+- **Презентация**([PPTX](https://github.com/nmasalkin/Project-work/blob/main/Документация/Защита.pptx))([PDF](https://github.com/nmasalkin/Project-work/blob/main/Документация/Защита.pdf))
+- **Курсовой проект**
 
 ## Документация для разработчика
 - [**Правила ведения Git**](https://tp-project.youtrack.cloud/articles/PPT-A-1/Pravila-kommitov)(Заходить под VPN)
