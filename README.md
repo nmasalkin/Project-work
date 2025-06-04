@@ -49,6 +49,7 @@
 - **Презентация**([PPTX](https://github.com/nmasalkin/Project-work/blob/main/Документация/Предзащита.pptx))([PDF](https://github.com/nmasalkin/Project-work/blob/main/Документация/Предзащита.pdf))
 - **Курсовой проект**([PDF](<https://github.com/nmasalkin/Project-work/blob/main/Документация/Курсовой%20проект%20(Предзащита).pdf>)) (старая версия)
 ### Защита
+- **Видео-демонстрация приложения**([Rutube](https://rutube.ru/video/167bf9b6c4f91e967cb5609f13b254a2/))
 - **Аналитические метрики**([PDF](https://github.com/nmasalkin/Project-work/blob/main/Документация/Yandex%20Appmetrica.pdf))
 - **Презентация**([PPTX](https://github.com/nmasalkin/Project-work/blob/main/Документация/Защита.pptx))([PDF](https://github.com/nmasalkin/Project-work/blob/main/Документация/Защита.pdf))
 - **Курсовой проект**([DOCX](https://github.com/nmasalkin/Project-work/blob/main/Документация/Курсовой_проект_8_4.docx))([PDF](https://github.com/nmasalkin/Project-work/blob/main/Документация/Курсовой_проект_8_4.pdf))
